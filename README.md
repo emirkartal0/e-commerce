@@ -3,10 +3,12 @@
 link: https://emirkartal0.github.io/e-commerce/
 
 ### Packages and libraries I use
-react-hot-toast
-react-router-dom
-react-icons
-framer-motion
+##### react-hot-toast
+##### react-router-dom
+##### react-icons
+##### framer-motion
+### also 
+#### There is a client and admin panel.
 
 <img width="1440" alt="Screen Shot 2022-08-26 at 02 33 53" src="https://user-images.githubusercontent.com/75259243/186787184-b2c7b121-7ae9-4c61-8979-47e09ee1e21a.png">
 
